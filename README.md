@@ -1,4 +1,14 @@
-# burpsuite_hack
+# burpsuite_hack_plus
+
+基于二开：[depycode/burpsuite_hack: 一款代理扫描器 (github.com)](https://github.com/depycode/burpsuite_hack) 
+
+### 解决问题：
+
+使用sqlite数据库存储，自动创建库、表。删除重启也会自动创建
+
+报错增加读取txt配置文件，方便扩展错误关键字
+
+
 一款代理扫描器
 
 - 适配python3.6+ 
