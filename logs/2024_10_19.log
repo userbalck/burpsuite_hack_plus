@@ -1,0 +1,538 @@
+[2024-10-19 21:15:12,207] MyUDPHandler_Threads.py-><module> line:169 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 21:15:12,209] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,209] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,209] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 21:15:12,209] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,209] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 21:15:12,210] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,210] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,210] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 21:15:12,210] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,211] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,211] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 21:15:12,211] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,211] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 21:15:12,212] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,212] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:15:12,212] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:15:12,213] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:15:12,214] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:15:12,214] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:15:12,214] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:17:52,305] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 21:17:52,317] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:17:52,593] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:17:52,593] timecalc.py->inner line:12 [INFO] [*] 耗时：0.2756683826446533秒
+[2024-10-19 21:17:52,594] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:17:52,632] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 21:17:52,653] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 21:17:52,669] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 21:17:52,670] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 1 个请求
+[2024-10-19 21:17:52,670] timecalc.py->inner line:12 [INFO] [*] 耗时：0.07642984390258789秒
+[2024-10-19 21:17:52,671] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:17:52,758] sql_bool.py->scan line:196 [CRITICAL] [+] 确认存在Bool(str)型SQL注入，false_score=0.8384074941451991, true_score=1.0
+[2024-10-19 21:17:52,775] sql_bool.py->fetch_sql line:404 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 21:17:52,784] sql_bool.py->fetch_sql line:406 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 21:17:52,785] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:17:52,785] timecalc.py->inner line:12 [INFO] [*] 耗时：0.11394953727722168秒
+[2024-10-19 21:17:52,785] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:17:52,786] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:18:20,492] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:18:20,730] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:18:20,731] timecalc.py->inner line:12 [INFO] [*] 耗时：0.2409827709197998秒
+[2024-10-19 21:18:20,731] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:18:20,743] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 21:18:20,764] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 21:18:20,771] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 21:18:20,771] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 1 个请求
+[2024-10-19 21:18:20,771] timecalc.py->inner line:12 [INFO] [*] 耗时：0.03995513916015625秒
+[2024-10-19 21:18:20,772] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:18:20,846] sql_bool.py->scan line:196 [CRITICAL] [+] 确认存在Bool(str)型SQL注入，false_score=0.8391608391608392, true_score=1.0
+[2024-10-19 21:18:20,861] sql_bool.py->fetch_sql line:404 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 21:18:20,868] sql_bool.py->fetch_sql line:406 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 21:18:20,868] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:18:20,869] timecalc.py->inner line:12 [INFO] [*] 耗时：0.09613585472106934秒
+[2024-10-19 21:18:20,869] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:18:20,869] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:03,279] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:19:03,471] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:19:03,472] timecalc.py->inner line:12 [INFO] [*] 耗时：0.19228434562683105秒
+[2024-10-19 21:19:03,473] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:19:03,509] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 3 个请求
+[2024-10-19 21:19:03,510] timecalc.py->inner line:12 [INFO] [*] 耗时：0.037798404693603516秒
+[2024-10-19 21:19:03,511] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:19:03,687] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:19:03,688] timecalc.py->inner line:12 [INFO] [*] 耗时：0.17680668830871582秒
+[2024-10-19 21:19:03,688] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:03,689] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:14,861] MyUDPHandler_Threads.py->query line:100 [INFO] 重复请求
+[2024-10-19 21:19:14,861] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:14,862] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:19,591] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:19:19,788] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:19:19,789] timecalc.py->inner line:12 [INFO] [*] 耗时：0.19879603385925293秒
+[2024-10-19 21:19:19,791] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:19:19,855] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 3 个请求
+[2024-10-19 21:19:19,855] timecalc.py->inner line:12 [INFO] [*] 耗时：0.06410837173461914秒
+[2024-10-19 21:19:19,856] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:19:20,039] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:19:20,040] timecalc.py->inner line:12 [INFO] [*] 耗时：0.1839609146118164秒
+[2024-10-19 21:19:20,040] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:20,041] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:22,528] MyUDPHandler_Threads.py->query line:100 [INFO] 重复请求
+[2024-10-19 21:19:22,528] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:22,528] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:43,718] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:19:43,940] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 3 个请求
+[2024-10-19 21:19:43,941] timecalc.py->inner line:12 [INFO] [*] 耗时：0.22303247451782227秒
+[2024-10-19 21:19:43,942] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:19:44,109] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 9 个请求
+[2024-10-19 21:19:44,109] timecalc.py->inner line:12 [INFO] [*] 耗时：0.1669294834136963秒
+[2024-10-19 21:19:44,110] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:19:44,632] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:19:44,632] timecalc.py->inner line:12 [INFO] [*] 耗时：0.5221898555755615秒
+[2024-10-19 21:19:44,633] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:44,633] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:19:47,993] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:19:48,213] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 3 个请求
+[2024-10-19 21:19:48,214] timecalc.py->inner line:12 [INFO] [*] 耗时：0.2212538719177246秒
+[2024-10-19 21:19:48,214] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:19:48,396] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 9 个请求
+[2024-10-19 21:19:48,397] timecalc.py->inner line:12 [INFO] [*] 耗时：0.1831977367401123秒
+[2024-10-19 21:19:48,398] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:19:48,876] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:19:48,877] timecalc.py->inner line:12 [INFO] [*] 耗时：0.4783976078033447秒
+[2024-10-19 21:19:48,877] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:19:48,877] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 21:35:43,796] MyUDPHandler_Threads.py-><module> line:169 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 21:35:43,798] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,798] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 21:35:43,798] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,798] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 21:35:43,799] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,799] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 21:35:43,800] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,800] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 21:35:43,800] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,801] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 21:35:43,801] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,801] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 21:35:43,801] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,802] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 21:35:43,802] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,802] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,802] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 21:35:43,802] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:35:43,803] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:43,803] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:35:59,269] MyUDPHandler_Threads.py-><module> line:169 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 21:35:59,280] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,280] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 21:35:59,281] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,281] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 21:35:59,281] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,281] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 21:35:59,282] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,282] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 21:35:59,282] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,282] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,282] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 21:35:59,283] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,284] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:35:59,284] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:35:59,284] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 21:36:08,461] MyUDPHandler_Threads.py-><module> line:169 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 21:36:08,672] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,672] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,673] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,674] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,674] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,675] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,675] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,675] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,675] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,676] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,677] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,677] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:36:08,678] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,678] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,678] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,679] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,679] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,679] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,680] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:36:08,680] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:37:12,226] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 21:38:24,296] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:38:24,541] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:38:24,541] timecalc.py->inner line:12 [INFO] [*] 耗时：0.24538350105285645秒
+[2024-10-19 21:38:24,543] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:38:25,657] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 21:38:25,674] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 21:38:25,696] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 21:38:33,330] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 1 个请求
+[2024-10-19 21:38:37,880] timecalc.py->inner line:12 [INFO] [*] 耗时：12.194726467132568秒
+[2024-10-19 21:38:52,616] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 21:42:46,128] sql_bool.py->scan line:196 [CRITICAL] [+] 确认存在Bool(str)型SQL注入，false_score=0.8384074941451991, true_score=1.0
+[2024-10-19 21:42:46,183] sql_bool.py->fetch_sql line:404 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 21:42:46,198] sql_bool.py->fetch_sql line:406 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 21:42:46,198] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 21:42:49,204] timecalc.py->inner line:12 [INFO] [*] 耗时：244.82357025146484秒
+[2024-10-19 21:42:51,347] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:42:51,348] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 17
+[2024-10-19 21:47:57,488] MyUDPHandler_Threads.py->query line:100 [INFO] 重复请求
+[2024-10-19 21:48:00,569] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:01,559] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 17
+[2024-10-19 21:48:23,197] MyUDPHandler_Threads.py->query line:100 [INFO] 重复请求
+[2024-10-19 21:48:32,687] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 21:48:32,910] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,911] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,911] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,912] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,912] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,912] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,913] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,913] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,913] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,913] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,914] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,914] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 21:48:32,914] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,914] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,915] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,915] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,915] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,916] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,916] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:32,916] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 21:48:54,027] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 21:49:59,008] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 21:51:28,737] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 21:51:30,777] timecalc.py->inner line:12 [INFO] [*] 耗时：91.76936483383179秒
+[2024-10-19 21:51:36,030] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 21:55:41,594] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 22:00:34,970] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 22:00:34,973] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,973] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 22:00:34,973] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,973] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,973] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 22:00:34,974] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,974] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 22:00:34,974] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 22:00:34,974] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,975] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,975] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 22:00:34,975] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 22:00:34,976] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,976] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 22:00:34,976] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,976] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 22:00:34,977] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,977] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 22:00:34,977] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:00:34,977] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 22:01:06,456] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 22:01:06,468] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 22:01:06,732] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 22:01:06,732] timecalc.py->inner line:12 [INFO] [*] 耗时：0.26373982429504395秒
+[2024-10-19 22:01:06,733] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 22:01:06,747] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 22:01:06,759] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 22:01:06,766] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 22:01:06,767] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 1 个请求
+[2024-10-19 22:01:06,767] timecalc.py->inner line:12 [INFO] [*] 耗时：0.03477334976196289秒
+[2024-10-19 22:01:06,767] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 22:01:06,912] sql_bool.py->scan line:254 [CRITICAL] [+] 确定存在Bool(int)型SQL注入，false_score=0.8418604651162791, true_score=1.0
+[2024-10-19 22:01:06,924] sql_bool.py->fetch_sql line:404 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 22:01:06,930] sql_bool.py->fetch_sql line:406 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 22:01:06,930] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 22:01:06,931] timecalc.py->inner line:12 [INFO] [*] 耗时：0.1630415916442871秒
+[2024-10-19 22:01:06,931] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:01:06,931] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 22:02:07,971] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 22:02:07,973] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,973] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 22:02:07,973] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,974] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 22:02:07,974] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,974] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 22:02:07,974] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,975] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 22:02:07,975] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,975] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 22:02:07,975] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,976] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 22:02:07,977] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 22:02:07,977] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:02:07,977] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 22:03:22,303] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 22:03:22,312] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 22:03:22,570] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 22:03:22,570] timecalc.py->inner line:12 [INFO] [*] 耗时：0.25810980796813965秒
+[2024-10-19 22:03:22,572] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 22:03:22,585] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 22:03:22,594] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 22:03:22,603] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 22:03:22,603] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 1 个请求
+[2024-10-19 22:03:22,603] timecalc.py->inner line:12 [INFO] [*] 耗时：0.030999183654785156秒
+[2024-10-19 22:03:22,603] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 22:03:22,689] sql_bool.py->scan line:196 [CRITICAL] [+] 确认存在Bool(str)型SQL注入，false_score=0.8905852417302799, true_score=1.0
+[2024-10-19 22:03:22,701] sql_bool.py->fetch_sql line:404 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 22:03:22,707] sql_bool.py->fetch_sql line:406 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 22:03:22,707] sql_bool.py->scan line:397 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 22:03:22,707] timecalc.py->inner line:12 [INFO] [*] 耗时：0.10378432273864746秒
+[2024-10-19 22:03:22,707] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:03:22,708] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 22:39:40,613] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 22:39:40,790] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,791] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,791] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,791] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,791] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,792] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,792] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,792] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,793] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,793] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,793] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 22:39:40,793] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,794] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,794] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,794] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,795] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,795] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,796] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,796] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:40,797] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 15
+[2024-10-19 22:39:52,949] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 22:40:08,903] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 22:41:10,231] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 22:41:17,128] timecalc.py->inner line:12 [INFO] [*] 耗时：67.17288160324097秒
+[2024-10-19 22:41:34,869] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 22:56:21,240] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:01:32,320] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:01:32,339] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:01:39,731] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:01:41,822] timecalc.py->inner line:12 [INFO] [*] 耗时：1206.4864172935486秒
+[2024-10-19 23:01:46,781] sql_bool.py->scan line:125 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:05:56,059] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 23:05:56,069] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,070] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 23:05:56,070] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,070] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,070] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 23:05:56,071] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 23:05:56,071] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,072] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,072] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 23:05:56,072] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:05:56,073] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,073] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,073] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 23:05:56,074] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 23:05:56,074] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,074] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 23:05:56,074] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,075] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:05:56,075] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:05:56,075] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:06:13,285] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 23:06:13,294] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 23:06:13,547] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 23:06:13,547] timecalc.py->inner line:12 [INFO] [*] 耗时：0.253237247467041秒
+[2024-10-19 23:06:13,548] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 23:06:13,569] sql_error.py->scan line:42 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:06:13,582] sql_error.py->fetch_sql line:54 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:06:13,590] sql_error.py->fetch_sql line:56 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:06:13,590] sql_error.py->scan line:48 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:06:13,590] timecalc.py->inner line:12 [INFO] [*] 耗时：0.042429447174072266秒
+[2024-10-19 23:06:13,591] sql_bool.py->scan line:126 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:06:13,811] sql_bool.py->scan line:340 [CRITICAL] [+] 确认存在Bool(str double_quotes)型SQL注入，false_score=0.8877284595300261, true_score=1.0
+[2024-10-19 23:06:13,825] sql_bool.py->fetch_sql line:405 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 23:06:13,831] sql_bool.py->fetch_sql line:407 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 23:06:13,831] sql_bool.py->scan line:398 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 23:06:13,831] timecalc.py->inner line:12 [INFO] [*] 耗时：0.24022650718688965秒
+[2024-10-19 23:06:13,831] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:06:13,832] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 23:22:39,755] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 23:22:39,766] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,766] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 23:22:39,766] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,766] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 23:22:39,767] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,767] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 23:22:39,767] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,767] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 23:22:39,767] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,768] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:22:39,768] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,768] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:22:39,768] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,769] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 23:22:39,769] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,769] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 23:22:39,769] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,769] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:22:39,770] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:39,770] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:22:48,113] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 23:22:48,122] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 23:22:48,353] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 23:22:48,353] timecalc.py->inner line:12 [INFO] [*] 耗时：0.23050713539123535秒
+[2024-10-19 23:22:48,353] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 23:22:48,802] sql_error.py->scan line:45 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:22:48,816] sql_error.py->scan line:48 [INFO] --------------error_sql_str-END-----------------
+[2024-10-19 23:22:48,822] sql_error.py->fetch_sql line:57 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:22:48,831] sql_error.py->fetch_sql line:59 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:22:48,831] sql_error.py->scan line:51 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:22:48,831] timecalc.py->inner line:12 [INFO] [*] 耗时：0.4779040813446045秒
+[2024-10-19 23:22:48,832] sql_bool.py->scan line:126 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:22:49,059] sql_bool.py->scan line:340 [CRITICAL] [+] 确认存在Bool(str double_quotes)型SQL注入，false_score=0.8877284595300261, true_score=1.0
+[2024-10-19 23:22:49,084] sql_bool.py->fetch_sql line:405 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 23:22:49,089] sql_bool.py->fetch_sql line:407 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 23:22:49,090] sql_bool.py->scan line:398 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 23:22:49,090] timecalc.py->inner line:12 [INFO] [*] 耗时：0.25856971740722656秒
+[2024-10-19 23:22:49,090] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:22:49,090] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 23:23:28,943] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 23:23:28,951] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,951] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 23:23:28,952] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,952] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 23:23:28,953] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,953] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 23:23:28,953] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,954] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 23:23:28,954] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,955] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:23:28,955] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,955] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 23:23:28,956] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,956] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 23:23:28,956] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,957] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 23:23:28,957] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,958] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:23:28,958] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:28,958] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:23:32,903] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 23:23:32,914] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 23:23:33,096] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 23:23:33,097] timecalc.py->inner line:12 [INFO] [*] 耗时：0.1832571029663086秒
+[2024-10-19 23:23:33,097] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 23:23:33,098] sql_error.py->scan line:30 [INFO] ------------START-------------------'
+[2024-10-19 23:23:33,329] sql_error.py->scan line:30 [INFO] ------------START-------------------"
+[2024-10-19 23:23:33,505] sql_error.py->scan line:45 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:23:33,512] sql_error.py->scan line:30 [INFO] ------------START-------------------%df'
+[2024-10-19 23:23:33,512] sql_error.py->scan line:30 [INFO] ------------START-------------------/
+[2024-10-19 23:23:33,513] sql_error.py->scan line:48 [INFO] --------------error_sql_str-END-----------------
+[2024-10-19 23:23:33,518] sql_error.py->fetch_sql line:57 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:23:33,527] sql_error.py->fetch_sql line:59 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:23:33,527] sql_error.py->scan line:51 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:23:33,527] timecalc.py->inner line:12 [INFO] [*] 耗时：0.43041181564331055秒
+[2024-10-19 23:23:33,527] sql_bool.py->scan line:126 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:23:33,706] sql_bool.py->scan line:340 [CRITICAL] [+] 确认存在Bool(str double_quotes)型SQL注入，false_score=0.8877284595300261, true_score=1.0
+[2024-10-19 23:23:33,724] sql_bool.py->fetch_sql line:405 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 23:23:33,729] sql_bool.py->fetch_sql line:407 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 23:23:33,730] sql_bool.py->scan line:398 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 23:23:33,730] timecalc.py->inner line:12 [INFO] [*] 耗时：0.202958345413208秒
+[2024-10-19 23:23:33,730] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:33,730] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 23:23:51,380] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 23:23:51,391] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,391] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 23:23:51,391] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,391] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,392] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:23:51,393] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,393] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 23:23:51,393] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,393] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 23:23:51,393] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,394] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:51,394] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:23:51,394] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:23:51,394] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:23:55,696] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 23:23:55,705] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 23:23:55,940] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 23:23:55,940] timecalc.py->inner line:12 [INFO] [*] 耗时：0.2361297607421875秒
+[2024-10-19 23:23:55,941] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 23:23:55,942] sql_error.py->scan line:30 [INFO] ------------START-------------------
+[2024-10-19 23:23:56,169] sql_error.py->scan line:30 [INFO] ------------START-------------------
+[2024-10-19 23:23:56,364] sql_error.py->scan line:45 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:23:56,384] sql_error.py->scan line:30 [INFO] ------------START-------------------
+[2024-10-19 23:23:56,385] sql_error.py->scan line:30 [INFO] ------------START-------------------
+[2024-10-19 23:23:56,385] sql_error.py->scan line:48 [INFO] --------------error_sql_str-END-----------------
+[2024-10-19 23:23:56,389] sql_error.py->fetch_sql line:57 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:23:56,401] sql_error.py->fetch_sql line:59 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:23:56,402] sql_error.py->scan line:51 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:23:56,402] timecalc.py->inner line:12 [INFO] [*] 耗时：0.46076083183288574秒
+[2024-10-19 23:23:56,402] sql_bool.py->scan line:126 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:23:56,604] sql_bool.py->scan line:340 [CRITICAL] [+] 确认存在Bool(str double_quotes)型SQL注入，false_score=0.8877284595300261, true_score=1.0
+[2024-10-19 23:23:56,625] sql_bool.py->fetch_sql line:405 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 23:23:56,632] sql_bool.py->fetch_sql line:407 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 23:23:56,633] sql_bool.py->scan line:398 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 23:23:56,633] timecalc.py->inner line:12 [INFO] [*] 耗时：0.23030662536621094秒
+[2024-10-19 23:23:56,633] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:23:56,633] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 23:24:30,115] MyUDPHandler_Threads.py-><module> line:171 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-19 23:24:30,116] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,116] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 4
+[2024-10-19 23:24:30,116] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 7
+[2024-10-19 23:24:30,117] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,118] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-19 23:24:30,118] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 9
+[2024-10-19 23:24:30,118] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,118] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,118] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-19 23:24:30,119] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-19 23:24:30,119] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,119] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:30,119] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:24:30,119] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-19 23:24:33,149] ConfigFileModifyHandler.py->load_config line:53 [INFO] 加载配置
+[2024-10-19 23:24:33,159] ssrf.py->scan line:58 [INFO] [*] SSRF探测插件启动
+[2024-10-19 23:24:33,376] ssrf.py->scan line:73 [INFO] [*] SSRF 探测完成, 共发送 1 个请求
+[2024-10-19 23:24:33,376] timecalc.py->inner line:12 [INFO] [*] 耗时：0.21689295768737793秒
+[2024-10-19 23:24:33,377] sql_error.py->scan line:27 [INFO] [*] SQL报错注入探测插件启动
+[2024-10-19 23:24:33,442] sql_error.py->scan line:45 [CRITICAL] [+] 发现SQL报错注入, You have an error in your SQL syntax;
+[2024-10-19 23:24:33,482] sql_error.py->scan line:48 [INFO] --------------error_sql_str-END-----------------
+[2024-10-19 23:24:33,486] sql_error.py->fetch_sql line:57 [INFO] [+] #####正在生成SQL报错注入漏洞报告#####
+[2024-10-19 23:24:33,494] sql_error.py->fetch_sql line:59 [INFO] [+] #####SQL报错注入漏洞报告生成完成#####
+[2024-10-19 23:24:33,494] sql_error.py->scan line:51 [INFO] [*] SQL注入探测完成, 共发送 2 个请求
+[2024-10-19 23:24:33,494] timecalc.py->inner line:12 [INFO] [*] 耗时：0.11681294441223145秒
+[2024-10-19 23:24:33,494] sql_bool.py->scan line:126 [INFO] [*] SQL BOOL 注入探测插件启动
+[2024-10-19 23:24:33,680] sql_bool.py->scan line:340 [CRITICAL] [+] 确认存在Bool(str double_quotes)型SQL注入，false_score=0.8877284595300261, true_score=1.0
+[2024-10-19 23:24:33,690] sql_bool.py->fetch_sql line:405 [INFO] [+] #####正在生成SQL BOOL注入漏洞报告#####
+[2024-10-19 23:24:33,695] sql_bool.py->fetch_sql line:407 [INFO] [+] #####SQL BOOL注入漏洞报告生成完成#####
+[2024-10-19 23:24:33,695] sql_bool.py->scan line:398 [INFO] [*] SQL BOOL注入探测完成
+[2024-10-19 23:24:33,695] timecalc.py->inner line:12 [INFO] [*] 耗时：0.20100975036621094秒
+[2024-10-19 23:24:33,695] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:24:33,695] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14
+[2024-10-19 23:27:32,924] MyUDPHandler_Threads.py->query line:100 [INFO] 重复请求
+[2024-10-19 23:27:32,924] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-19 23:27:32,924] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 14

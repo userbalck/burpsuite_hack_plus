@@ -1,0 +1,6 @@
+lib/utils/burphack.db
+resources/app.config
+burphack.db
+lib/utils/__pycache__/*
+lib/plugins/__pycache__/*
+*.pyc

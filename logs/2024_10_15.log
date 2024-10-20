@@ -1,0 +1,21 @@
+[2024-10-15 21:42:55,081] MyUDPHandler_Threads.py-><module> line:169 [INFO] ----- udp server start at 0.0.0.0 port 32743 ----
+[2024-10-15 21:42:55,083] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,083] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,083] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 5
+[2024-10-15 21:42:55,084] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,084] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 6
+[2024-10-15 21:42:55,084] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,085] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,085] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 8
+[2024-10-15 21:42:55,085] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,085] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,086] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 10
+[2024-10-15 21:42:55,086] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,086] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 11
+[2024-10-15 21:42:55,086] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,087] MyUDPHandler_Threads.py->worker line:114 [INFO] 队列长度: 0
+[2024-10-15 21:42:55,087] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-15 21:42:55,087] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-15 21:42:55,087] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-15 21:42:55,088] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
+[2024-10-15 21:42:55,088] MyUDPHandler_Threads.py->worker line:115 [INFO] 当前运行的线程数量: 12
