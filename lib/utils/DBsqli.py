@@ -31,7 +31,6 @@ def insta_crate_database(script_dir):
                        );
                        ''')
 
-        print("成功创建CVE监控表")
         # 创建 sql_error 表
         cursor.execute('''
                        CREATE TABLE IF NOT EXISTS sql_error (

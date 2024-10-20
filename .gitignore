@@ -4,3 +4,5 @@ burphack.db
 lib/utils/__pycache__/*
 lib/plugins/__pycache__/*
 *.pyc
+.idea/*
+logs/*
