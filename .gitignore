@@ -1,8 +1,9 @@
 lib/utils/burphack.db
-resources/app.config
+resources/.app.config
 burphack.db
 lib/utils/__pycache__/*
 lib/plugins/__pycache__/*
 *.pyc
 .idea/*
 logs/*
+reports/*.html
