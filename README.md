@@ -8,7 +8,7 @@
 
 报错增加读取txt配置文件，方便扩展错误关键字
 
-![image-20241020194738247](.\assets\image-20241020194738247.png)
+![image-20241020194738247](https://github.com/userbalck/burpsuite_hack_plus/blob/main/assets/image-20241020194738247.png)
 
 
 一款代理扫描器
